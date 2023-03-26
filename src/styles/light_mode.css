@@ -1,0 +1,26 @@
+.title-bar{
+    -fx-background-color: #cccc;
+}
+
+.primary{
+    -fx-background-color: #ffff;
+}
+
+.success{
+    -fx-background-color: #006D05;
+}
+
+.btn-primary{
+    -fx-border-radius: 0;
+    -fx-background-color: #F8F9FA;
+    -fx-text-fill: #202124;
+}
+
+.btn-success{
+    -fx-background-color: #63BFAC;
+    -fx-text-fill: #ffff;
+}
+
+.txt-primary{
+    -fx-text-fill: #202124;
+}
